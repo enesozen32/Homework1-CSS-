@@ -1,0 +1,10 @@
+/* claslara ayırarak komple üç sayfada değişiklik yapabileceğim */
+body{
+    background-color: black;
+}
+.text-white{
+    color: white;
+}
+.red-background {
+    background-color: red;
+}
